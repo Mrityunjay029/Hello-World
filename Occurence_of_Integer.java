@@ -19,9 +19,6 @@ public class Occurence_of_Integer {
                     Occ++;
                 }
             }
-            if(Occ != 0)
                 System.out.println("Occurence is:" + Occ);
-            else
-                System.out.println("Occurence is:" + 0);
         }
 }
